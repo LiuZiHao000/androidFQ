@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\online_main.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\online_main.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_win.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\about_win.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_choose.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\activity_file_choose.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_show.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\file_show.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\changename_win.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\changename_win.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_main.xml",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\layout\\chat_main.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#A2B5CD"
+    >
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:textSize="20px"
+        tools:context=".MainActivity" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:background="@android:drawable/edit_text"
+        android:scrollbarStyle="outsideOverlay" >
+
+        <TextView
+            android:id="@+id/showMsg"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+             android:text=""
+            android:textSize="10px"
+            android:background="#D1EEEE"
+            android:layout_weight="3" />
+    </ScrollView>
+	<ZoomControls 
+	    android:id="@+id/zoomC"
+	    android:layout_gravity="bottom"
+	     android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+	    />
+    <EditText
+        android:id="@+id/editMsg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20px"
+        android:background="#FFFFE0" />
+
+    <Button
+        android:id="@+id/sendBut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发送" />
+
+</LinearLayout>

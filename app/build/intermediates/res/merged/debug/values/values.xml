@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_file_choose">文件选择</string>
+    <string name="app_name">移动局域网</string>
+    <string name="chat_main">正在聊天</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">移动局域网</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

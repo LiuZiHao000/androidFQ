@@ -1,0 +1,36 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="20px"
+            android:text="昵称"
+            android:textSize="20px"
+            tools:context=".MainActivity" />
+
+        <TextView
+            android:id="@+id/ip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="25px"
+            android:text="ip"
+            android:textSize="15px"
+            tools:context=".MainActivity" />
+
+        <TextView
+            android:id="@+id/msgPoint"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+        
+            android:textSize="20px"
+            android:textColor="#218868"
+            tools:context=".MainActivity" />
+    </TableRow>
+
+</TableLayout>

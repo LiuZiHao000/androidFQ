@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#292929">
+    <ScrollView 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"  >
+        <TextView
+            android:id="@+id/aboutTxt"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"          
+             android:textSize="20px"       
+             android:text="  本程序为个人完成测试版，可检测同一wifi下登陆本程序的设备。也可以进入设备设置本机为wifi热点构建局域网.\r\n  程序基本功能为个人聊天和文件传输，文件传输测试平均速度为1.5M,可以方便传输文件，因为是局域网通讯，所以不消耗流量!后续提供新功能，\r\n  这是一款可以伴随你进步的软件，有好的建议和想法请联系作者。\r\n  emial：185817196@qq.com\r\n  让程序按你的想法来做！\r\n 接收的文件存放在：wifiFQ/files中"
+			android:textColor="#E0E0E0"	
+		/>
+   </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_file.png",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\drawable-hdpi\\img_file.png"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_dir.png",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\drawable-hdpi\\img_dir.png"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.gif",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\drawable-hdpi\\head.gif"
+    },
+    {
+        "merged": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\Program Files\\EeasminProjects\\androidFQ\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
